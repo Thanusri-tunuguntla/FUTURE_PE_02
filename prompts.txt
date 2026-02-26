@@ -1,0 +1,50 @@
+Prompt 1: Generate hooks for skincare ads -
+
+Act as a UGC content creator for skincare brands.
+
+Generate 8 scroll-stopping hooks for an Instagram Reel ad.
+
+Product: Minimalist Niacinamide 10% Serum
+Audience: People aged 18–30 with acne or oily skin.
+
+Requirements:
+- Hooks must be short and attention-grabbing
+- Sound like a real user talking
+- Avoid overly salesy language
+- Maximum 12 words each
+
+Prompt 2: Generate UGC scripts using Hook → Problem → Solution → CTA framework -
+
+Act as a UGC creator producing skincare ads for Instagram Reels.
+
+Create 3 UGC style ad scripts for:
+
+Product: Minimalist Niacinamide 10% Serum
+Audience: People aged 18–30 with oily or acne-prone skin.
+
+Each script must follow this structure:
+Hook
+Problem
+Personal Experience
+Product Introduction
+Result
+Call To Action
+
+Tone:
+Authentic, relatable, and conversational.
+Length:
+Approximately 20–30 seconds of spoken dialogue.
+
+Prompt 3: Generate captions and hashtags for Instagram posts -
+
+Act as a social media marketing specialist.
+
+Write:
+1 Instagram caption
+5 call-to-action lines
+10 relevant hashtags
+
+For a UGC skincare ad promoting Minimalist Niacinamide Serum.
+
+Tone:
+Friendly and informative.
